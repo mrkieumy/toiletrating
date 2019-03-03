@@ -1,0 +1,11 @@
+D:\CSharp\rating\rating\bin\Debug\rating.exe.config
+D:\CSharp\rating\rating\bin\Debug\rating.exe
+D:\CSharp\rating\rating\bin\Debug\rating.pdb
+D:\CSharp\rating\rating\obj\Debug\rating.csprojAssemblyReference.cache
+D:\CSharp\rating\rating\obj\Debug\rating.Form1.resources
+D:\CSharp\rating\rating\obj\Debug\rating.Properties.Resources.resources
+D:\CSharp\rating\rating\obj\Debug\rating.csproj.GenerateResource.cache
+D:\CSharp\rating\rating\obj\Debug\rating.csproj.CoreCompileInputs.cache
+D:\CSharp\rating\rating\obj\Debug\rating.exe
+D:\CSharp\rating\rating\obj\Debug\rating.pdb
+D:\CSharp\rating\rating\obj\Debug\rating.fUserResponse.resources
